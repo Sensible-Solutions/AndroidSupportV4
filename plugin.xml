@@ -7,6 +7,11 @@
   </engines>
 
   <name>Android Support v4</name>
+  
+  <description>Cordova plugin that adds the Android Support v4 client library. It is meant to be depended on by other plugins.</description>
+  <author>Sensible Solutions</author>
+  <keywords>android support v4 library</keywords>
+  <license>No license</license>
 
   <platform name="android">
     <source-file src="android-support-v4.jar" target-dir="libs" />
